@@ -25,13 +25,12 @@ Este proyecto contiene una API REST desarrollada en Java (Spring Boot) y una bas
    ```sh
    docker-compose up --build
    ```
-3. La API estará disponible en `http://localhost:8080`.
+3. La API esta disponible en `http://localhost:8080`.
 
 ## Endpoints principales
 - `/api/productos` (CRUD de productos)
 
 ## Variables de entorno
-Configura las variables en `docker-compose.yml` según tus necesidades.
+Configurra las variables en `docker-compose.yml` 
 
-## Licencia
-MIT
+
